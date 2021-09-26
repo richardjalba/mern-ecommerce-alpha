@@ -36,7 +36,7 @@ export default function (state = initialState, action) {
       const { id, data } = action.payload;
       return {
         ...state,
-        item: state.items.map((item) => {
+        items: state.items.map((item) => {
           if (item._id === id) {
             item = data;
           }

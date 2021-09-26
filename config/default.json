@@ -1,5 +1,5 @@
 {
-  "dbURI": "YOUR_DATABASE_URI",
+  "dbURI": "mongodb+srv://admin:Password123@mern-ecommerce.r8ite.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "jwtsecret": "your jwt secret",
-  "StripeAPIKey": "Stripe secret API key"
+  "StripeAPIKey": "pk_live_51Iz2hJG5mUGsiZOmYocEj7pG5ZuTX7941WqIu5lHBZ1OiCHjn2E5IvlaRCRKCnWaEYm0nW9DGlsz7XqdRlRLk5CZ00u0sjaWVl"
 }
